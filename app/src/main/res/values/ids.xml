@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewEdit1" type="id" />
+    <item name="layout_edit_password" type="id" />
+    <item name="editTextEdit1" type="id" />
+    <item name="textViewEdit2" type="id" />
+    <item name="editTextEdit2" type="id" />
+    <item name="buttonEdit" type="id" />
+</resources>
