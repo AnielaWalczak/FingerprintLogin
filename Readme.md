@@ -1,1 +1,2 @@
-An application for Android that uses fingerprint as form of login
+#Fingerprint
+An application for Android that uses both fingerprint and regular form of login
